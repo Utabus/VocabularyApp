@@ -1,0 +1,5 @@
+{
+  "name": "AI English Vocabulary Builder",
+  "description": "An application to learn English vocabulary with AI-generated word lists, pronunciation, flashcards, quizzes, and podcasts. Select a topic, level, and number of words to start learning in various interactive modes.",
+  "requestFramePermissions": []
+}
